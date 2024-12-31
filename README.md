@@ -8,5 +8,5 @@
 %gamma: coefficient of partial L21
 %p: p parameter of partial L21
 
-Output
-W and G
+%Output
+%W and G
