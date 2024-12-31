@@ -1,4 +1,3 @@
-# IMVDL
 %Input
 %X: 1*V cell matrix where each element is num*dim
 %sample_lack_index: num*V--1(existing), 0(missing)
